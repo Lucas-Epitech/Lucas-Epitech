@@ -1,96 +1,35 @@
 # Lucas Carré
-Software Engineering Student
+Software Engineering Student (Epitech)
 
-🎓 Computer Science student at Epitech  
-💻 Software development: C / C++ / Python  
-🔍 Looking for a software engineering internship
+C / C++ / Python • Systems & AI-oriented projects
 
 ---
 
-## About Me
-
-Computer science student with a strong interest in building reliable and efficient software
-for real-world applications.
-
-My background in low-level programming (C / C++) has trained me to work with
-performance, memory management and code robustness in mind.
-I enjoy understanding how systems work internally and tackling complex technical problems.
-
-I regularly work on personal projects to strengthen my skills in:
-- software design
-- data handling
-- system-level programming
+## About
+Computer science student focused on building efficient and reliable software.
+Strong interest in low-level programming, algorithms and applied AI.
 
 ---
 
-## Technical Skills
-
-**Languages**
-- C, C++, Python, Bash
-
-**Core concepts**
-- Object-oriented programming
-- Data structures & algorithms
-- Memory management
-- Modular software design
-- Debugging (gdb, valgrind)
-- Reading and maintaining existing codebases
-
-**Tools**
-- Git / GitHub
-- Make / CMake
-- Linux
-- VS Code
-
-**Areas of interest**
-- Software engineering
-- Data processing
-- System & low-level programming
-- Performance and reliability
-- Applied computing (including healthcare and critical systems)
+## Skills
+- **Languages:** C, C++, Python, Bash  
+- **Core:** Data structures, algorithms, memory management, debugging  
+- **Tools:** Git, Linux, Make / CMake
 
 ---
 
-## Selected Projects
-
-### Image Processing Toolkit
-Exploration of basic image processing concepts.
-
-- Image loading and manipulation
-- Simple filters and transformations
-- Focus on performance and correctness
-
-**Tech:** C++, Python
-
-### Structured Data Management
-Project focused on handling complex data structures.
-
-- File management and parsing
-- Searching and sorting
-- Emphasis on robustness and clean architecture
-
-**Tech:** C
-
-### Linux System Tools
-Small utilities developed in a Linux environment.
-
-- Bash scripting
-- Automation
-- Better understanding of OS-level behavior
-
-**Tech:** Bash, Linux
+## Projects
+- **Chess AI** – Game logic, state evaluation, heuristic-based decisions (C)
+- **Connect Four AI** – Adversarial logic, evaluation functions (C / C++)
+- **Dino Finder (Image AI)** – Pattern detection from visual input (Python)
 
 ---
 
-## Current Goal
-
-I am seeking a software engineering internship where code quality,
-technical rigor and learning are key priorities.
+## Goal
+Seeking a software engineering internship focused on code quality and learning.
 
 ---
 
-## Contact
-
-📧 Email: your.email@email.com  
-💼 LinkedIn: linkedin.com/in/yourprofile  
-📂 GitHub: github.com/Lucas-Epitech
+📧 lucas.carre2005@gmail.com  
+💼 linkedin.com/in/lucas-carré-epitech  
+📂 github.com/Lucas-Epitech
