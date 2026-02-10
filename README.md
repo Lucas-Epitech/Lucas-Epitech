@@ -28,7 +28,7 @@ Strong interest in low-level programming, algorithms and applied AI.
 ## Projects
 - **Chess AI** – Game logic, state evaluation, heuristic-based decisions (C)
 - **Connect Four AI** – Adversarial logic, evaluation functions (C / C++)
-- **Dino Finder (Image AI)** – Pattern detection from visual input (Python)
+- **R-Type** - Multi-threaded game engine & custom UDP network in C++.
 
 ---
 
