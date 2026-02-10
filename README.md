@@ -37,6 +37,5 @@ Seeking a software engineering internship focused on code quality and learning.
 
 ---
 
-📧 lucas.carre2005@gmail.com  
-💼 linkedin.com/in/lucas-carré-epitech  
-📂 github.com/Lucas-Epitech
+📧 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucas.carre2005@gmail.com)
+💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carré-epitech/)
